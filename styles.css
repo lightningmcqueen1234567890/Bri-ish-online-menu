@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+    image-rendering: auto;
+}
+
+.nav {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    border: outset;
+}
+
+img{
+    border-style: double;
+    width: 25cm;
+    display: block;
+    margin: auto;
+}
